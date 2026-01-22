@@ -78,7 +78,7 @@ All endpoints are **JWT-protected by default**.
 
 ## ⚙️ Setup
 
-- git clone https://github.com/<your-username>/ledgerflow-backend.git
+- git clone https://github.com/utkarshsc05/ledgerflow-backend.git
 - cd ledgerflow-backend
 
 - python -m venv venv
