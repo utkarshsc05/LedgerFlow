@@ -31,4 +31,7 @@ urlpatterns = [
     path("api/expenses/", include("expenses.urls")),
     path("api/categories/", include("categories.urls")),
     path("api/analytics/", include("analytics.urls")),
+
+    #whatsapp
+    path("webhooks/whatsapp/", include("integrations.whatsapp.urls")),
 ]
